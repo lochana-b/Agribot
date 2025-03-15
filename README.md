@@ -1,2 +1,2 @@
 # Agribot
-A chatbot to ask anything about agriculture
+A chatbot to ask anything about agriculture.
